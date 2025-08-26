@@ -1,2 +1,2 @@
-console.log("Welcome to Git demo")
+console.log("Welcome to Git demo, with gitbash")
 
